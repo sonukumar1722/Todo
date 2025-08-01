@@ -61,7 +61,7 @@ First, get the backend server running.
     Start the backend server.
 
     ```bash
-    python your_backend_file_name.py
+    python backend_API.py
     ```
 
     You should see output indicating that the server is running on `http://127.0.0.1:5000`. Keep this terminal window open.
